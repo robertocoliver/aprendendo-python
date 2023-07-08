@@ -1,2 +1,2 @@
 # aprendendo-python
-Repositório para meus estudos de PHP
+Repositório para meus estudos de python
